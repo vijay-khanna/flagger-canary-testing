@@ -4,5 +4,6 @@ This is a demo of Flagger using Prometheus
 
 * **Setup**
 ```
-clear
+git clone https://github.com/vijay-khanna/flagger.git
+
 ```
